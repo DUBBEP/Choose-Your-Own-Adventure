@@ -1,0 +1,209 @@
+:: StoryTitle
+Choose your own adventure
+
+
+:: StoryData
+{
+  "ifid": "60932DC7-0356-4ECF-963B-43A2FA5D8918",
+  "format": "Harlowe",
+  "format-version": "3.3.8",
+  "start": "Opening Image",
+  "zoom": 1
+}
+
+
+:: All Is Lost {"position":"1300,250","size":"100,100"}
+While running they pass by the small opening into a cave from before. The protagonist runs towards it instinctively resulting in the protagonist and the craftsman splitting up. The predator continues to chase the craftsman while the protagonist hides in the small cave opening.
+
+[[Dark Night of The Soul]]
+
+
+:: All Is Lost IW {"position":"1300,500","size":"100,100"}
+(In the All Is Lost, the moment the hero most feared actually happens. Now it looks like the hero will lose. The All Is Lost usually contains a whiff of death where someone has died or the threat of real death is in the air. This is the hero’s rock-bottom moment..)
+
+The caveman notices his fire is barely still going and that he is running out of time to save it. He works quickly to try and save it but is having a hard time keeping it going and the darkness of the forest is closing in. 
+
+[[Dark Night of The Soul IW]] 
+
+
+:: B Story {"position":"800,250","size":"100,100"}
+Now searching for both food and a way back home it is only now that the protagonist finds tracks of the deer it saw earlier. This success inspires him to lock in and continue forward. While tracking down his prey the protagonist bumps into another person. They’re short and wearing a noticeably more complex outfit than the bare loincloth of the protagonist. They share an exchange, both are cautious but realize they are both people. They both realize they are hunting the same deer. When the strange person realizes this they perk up and begin displaying a more friendly attitude. They enthusiastically show off to the protagonist. They take out a sack that they were carrying and begin taking out devices one after another. A slingshot, a mouse trap, a rope and pulley, a canteen holding water, etc. This strange person is a craftsman. The protagonist is frightened and confused by these devices initially but the friendly attitude that the craftsman displays gives them comfort and eventually they begin to display curiosity towards the contraptions. The two characters then decide to continue the hunt together.
+
+[[Fun and Games]]
+
+
+:: B Story IW {"position":"800,500","size":"100,100"}
+(The B Story is the thematic secondary story. Often, this is a story about love or friendship or mentorship.)
+
+The fire jumps around and flickers against the dark backdrop of the forest. It has a bright and wonderful color; fire is still fairly new to this ancient world, and the caveman find wonder in this invention. The caveman takes pride in his ability to create this wonderful invention. He begins to relax and gain confidence from this experience. 
+
+[[Fun and Games IW]] 
+
+
+:: Bad Guys Close In {"position":"1175,250","size":"100,100"}
+While fighting they are noticeably making a lot of noise. This draws in the predator from before which upon finding them begins to chase them. They both run from the predator.
+
+[[All Is Lost]]
+
+
+:: Bad Guys Close In IW {"position":"1175,500","size":"100,100"}
+(In the Bad Guys Close In, stakes have raised and tension is higher. External Bad Guys may be literally closing in or psychological, internal Bad Guys may be causing more problems.)
+
+The caveman actually wakes up this time and realizes he was dreaming, and that he hasn’t found any real exist.  
+
+[[All Is Lost IW]] 
+
+
+:: Break Into 2 {"position":"675,250","size":"100,100"}
+The protagonist is visibly distracted as they wander forward. They frantically look around their surroundings desperately attempting to find a sign of the deer they saw earlier. They are so occupied with this that they don’t notice the large feline predator that they walk directly into. The predator is sleeping, but the protagonist trips over it, waking it up and angering it. The predator begins chasing the protagonist. The protagonist is chased through the forest by the predator, running through and past strange plants and locations, before eventually slipping into a small opening in a cliff side which the predator cannot fit through. The protagonist is now lost.
+
+[[B Story]]
+
+
+:: Break Into 2 IW {"position":"675,500","size":"100,100"}
+(In the Break into 2, the hero decides to take action and locks in to accomplish a goal, venturing into a new world, or choosing a new way of  thinking. This is a no-turning-back decision that separates the old, ordinary world from the new world.)
+
+After wandering around for some time, the cave man eventually settles down and decides to settle down and starts a campfire with twigs and rocks he collected off the ground. 
+
+
+[[B Story IW]] 
+
+
+:: Break Into 3 {"position":"1550,250","size":"100,100"}
+The protagonist is shown creating something, weaving and tying rope, and constructing something. This is cut between the protagonist tracking down the predator.
+
+[[Finale]]
+
+
+:: Break Into 3 IW OP 1 {"position":"3100,1900","size":"100,100"}
+
+
+
+:: Break Into 3 IW Option 1 {"position":"1550,400","size":"100,100"}
+(In the Break into 3, a new piece of information is discovered and the hero realizes what they must do to solve all the problems that have been created in Act 2.0)
+
+The caveman chooses to continue stoking the fire until it grows into a strong flame, and he can use a nearby stick to create a torch.  
+
+[[Finale IW]] 
+
+
+:: Break Into 3 IW Option 2 {"position":"1550,600","size":"100,100"}
+(In the Break into 3, a new piece of information is discovered and the hero realizes what they must do to solve all the problems that have been created in Act 2.0)
+
+The caveman decides to leave his fire behind and try to rush out of the forest on his own. 
+
+[[Finale IW 2]] 
+
+
+:: Catalyst {"position":"425,250","size":"100,100"}
+While searching for food the protagonist gets greedy, attempting to reach fruit on a high up branch before slipping and falling into a river which results in the loss of all of the food that they had gathered. Frustrated, they observe another deer enter the ominous forest from the prairie. Despite showing fear they decide to enter the forest in the face of their loss and frustration at this moment.
+
+[[Debate]]
+
+
+:: Dark Night of The Soul {"position":"1425,250","size":"100,100"}
+The caveman realizes that the craftsman did not follow them into the cave opening. Realizing they lost their dear and that they left their new friend to die, the caveman breaks down. They hold a small nut in their hand from earlier in the day when he was gathering in the prairie. They then held a small piece of rope they had been carrying. Staring at it their eyes light up and they look out into the forest from the opening of the cave.
+
+[[Break Into 3]]
+
+
+:: Dark Night of The Soul IW {"position":"1425,500","size":"100,100"}
+(The Dark Night of the Soul is a reaction to the All Is Lost where the hero wallows in sadness, mourning what was lost and lamenting that they are now worse off than before the story began. This is an opportunity to take stock, where meaningful learning happens on the way to transformation.)
+
+As the darkness closes in the caveman start to get scared and realizes he as to make a discission about wither he wants to stay with the fire or to try and brave the forest without it. 
+
+[[Break Into 3 IW Option 1]] 
+
+[[Break Into 3 IW Option 2]] 
+
+
+:: Debate {"position":"550,250","size":"100,100"}
+As they enter the ominous forest the protagonist is visibly afraid, and doubting the decision to continue further into the forest. There are shown multiple scenes of the protagonist freaking out over benign things like the sound of a twig snapping or the silhouette of a tree which he mistakes for a predator. They continuously look back at the entrance of the forest which gets further and further away, before it disappears.
+
+[[Break Into 2]]
+
+[[Break Into 2 IW]]
+
+
+:: Final Image {"position":"1800,250","size":"100,100"}
+The protagonist comes home as the sun sets with a large sack of meat which he hauled back. The child exits the cave upon realizing their father has returned. When they realize that their father has returned home with meat they begin bouncing around in excitement. We then see the two sitting over a campfire happily eating the food which the father had returned with.
+
+
+:: Final Image IW {"position":"1800,400","size":"100,100"}
+(The Final Image is the “after photo” of the hero and the world. This mirror of the Opening Image shows how far the world and the hero have transformed.)
+
+The caveman walks past the pile of charred twig what used to be a campfire, he drops his torch on top of the charred twigs right where the old fire used to be and joins his son back in their cave 
+
+
+:: Final Image IW 2 {"position":"1800,600","size":"100,100"}
+(The Final Image is the “after photo” of the hero and the world. This mirror of the Opening Image shows how far the world and the hero have transformed.)
+
+The caveman returns into his cave in the with the sun slowly setting. He’s covered in burses and scars from his journey home. He walks past his sleeping son as he returns to his bed. 
+
+
+:: Finale {"position":"1675,250","size":"100,100"}
+The craftsman is seen hiding in a tree from the predator who sits at the base. The predator begins slowly climbing the tree before the protagonist shouts to get its attention and confronts it. The protagonist begins to run from the predator, this time however they are shown with a determined look in their eye. The predator gains on the protagonist as he leads it through the forest. Right before the protagonist is caught by the predator a trap is sprung and the predator is captured.
+
+[[Final Image]]
+
+
+:: Finale IW {"position":"1675,400","size":"100,100"}
+(The Finale is the big showdown where the hero finally proves they’ve learned the lesson that was taught via their struggles in Act 2. The quest is won, the dragon is slain, and when the smoke clears, the hero has changed. Their flaw is repaired and the world is indeed a better place.)
+
+The caveman uses the torch to find his way out of the forest and make his way back to his cave with his son still inside it. 
+
+[[Final Image IW]] 
+
+
+:: Finale IW 2 {"position":"1675,600","size":"100,100"}
+(The Finale is the big showdown where the hero finally proves they’ve learned the lesson that was taught via their struggles in Act 2. The quest is won, the dragon is slain, and when the smoke clears, the hero has changed. Their flaw is repaired and the world is indeed a better place.)
+
+After days of struggling to find an escape from the forest, he finally finds a familiar route home and makes his way back to his cave. 
+
+[[Final Image IW 2]] 
+
+
+:: Fun and Games {"position":"925,250","size":"100,100"}
+A sequence plays switching between the progression of the hunt for the deer and the craftsman teaching the protagonist new tricks, and techniques. They teach him how to build traps, a canteen, a leaf compass, and a slingshot. The first time they encounter the deer the protagonist immediately throws their spear at it and the deer dodges before running away. From then on the craftsman shows them how to use traps and that is the method they use going forward.
+
+[[Midpoint]]
+
+
+:: Fun and Games IW {"position":"925,500","size":"100,100"}
+(In the Fun & Games, the hero is in the new world. This beat delivers on the promise of the premise. It’s a large section of the story that essentially presents “the movie you came to see.” The Fun & Games contains scenes and sequences that are shown in the trailer of movies or hinted at in the blurb on the back of the book or on that “Coming Next Week” teaser at the end of a TV show.)
+
+The cave man wakes up to light shining through the trees. He notices what seems to be a break in the forest that he can exist through. 
+
+[[Midpoint IW]] 
+
+
+:: Midpoint {"position":"1050,250","size":"100,100"}
+Eventually the protagonist successfully catches the deer in a trap. Both characters celebrate before the protagonist shows they plan to keep all of the deer for themself. The craftsman becomes upset by this and they begin to fight.
+
+[[Bad Guys Close In]]
+
+
+:: Midpoint IW {"position":"1050,500","size":"100,100"}
+(The Midpoint is the middle of the story and the culmination of the Fun & Games. Usually, this beat is a false victory or a false defeat. The Midpoint raises the stakes on the hero, forcing them to narrow their focus on winning the day or surviving. Often, a ticking clock is introduced here, ratcheting up tension and boosting the urgency.)
+
+The caveman wakes up to light shining through the trees. He notices what seems to be a break in the forest that he can exist through.
+
+[[Bad Guys Close In IW]] 
+
+
+:: Opening Image {"position":"50,250","size":"100,100"}
+The story starts with a wide shot of a cave entrance in the morning in a small open area bordering a forest. It then cuts to a shot of a camp fire which sits right outside of the cave. The protagonist of the story, an adult middle-aged caveman enters the frame. They look as though they have just woken up. They yawn and begin stretching. Staring into the forest across the open space as they do. Soon the child of the caveman timidly wanders into the frame. The two share an exchange. The father looks down at their child who timidly stares down at the ground before their stomach growls. The father pats them on their head before picking up a spear and heading into the forest.
+
+[[Theme Stated]]
+
+
+:: Set-Up {"position":"300,250","size":"100,100"}
+The protagonist enters the open prairie next to the forest. Scenes of wildlife roaming, including rodents and other animals. Notably, the protagonist watches a large deer with interest before the animal wanders to the edge of the prairie and enters an ominous-looking forest on the other side. The protagonist ignores this and begins searching for food. During this sequence, the food they gather is notably measly and lacking, picking up only a handful of seeds, nuts, and mushrooms. The most substantial piece of food they gather is a small rodent they hunt. This section is notable in that it shows the protagonist chasing the rodent down attempting to skewer it on their spear.
+
+[[Catalyst]]
+
+
+:: Theme Stated {"position":"175,250","size":"100,100"}
+Before leaving the cave the child gestures to the father directing their attention. They point to a couple of deer far off in the distance. The father brushes off the idea and then leaves to gather food.
+
+[[Set-Up]]
