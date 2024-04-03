@@ -1,0 +1,187 @@
+:: StoryTitle
+Choose your own adventure
+
+
+:: StoryData
+{
+  "ifid": "60932DC7-0356-4ECF-963B-43A2FA5D8918",
+  "format": "Harlowe",
+  "format-version": "3.3.8",
+  "start": "Opening Image",
+  "zoom": 1
+}
+
+
+:: Catalyst {"position":"425,250","size":"100,100"}
+While searching for food the protagonist gets greedy, attempting to reach fruit on a high up branch before slipping and falling into a river which results in the loss of all of the food that they had gathered. Frustrated, they observe another deer enter the ominous forest from the prairie. Despite showing fear they decide to enter the forest in the face of their loss and frustration at this moment.
+
+[[Debate]]
+
+
+:: DP All Is Lost A {"position":"1300,75","size":"100,100"}
+[[DP Dark Knight of The Soul A]]
+
+
+:: DP All Is Lost B {"position":"1300,425","size":"100,100"}
+While running they pass by the small opening into a cave from before. The protagonist runs towards it instinctively resulting in the protagonist and the craftsman splitting up. The predator continues to chase the craftsman while the protagonist hides in the small cave opening.
+
+[[DP Dark Night of The Soul B]]
+
+
+:: DP B Story A {"position":"800,75","size":"100,100"}
+Aliens pov 
+
+[[DP Fun and Games A]]
+
+
+:: DP B Story B {"position":"800,425","size":"100,100"}
+Now searching for both food and a way back home it is only now that the protagonist finds tracks of the deer it saw earlier. This success inspires him to lock in and continue forward. While tracking down his prey the protagonist bumps into another person. They’re short and wearing a noticeably more complex outfit than the bare loincloth of the protagonist. They share an exchange, both are cautious but realize they are both people. They both realize they are hunting the same deer. When the strange person realizes this they perk up and begin displaying a more friendly attitude. They enthusiastically show off to the protagonist. They take out a sack that they were carrying and begin taking out devices one after another. A slingshot, a mouse trap, a rope and pulley, a canteen holding water, etc. This strange person is a craftsman. The protagonist is frightened and confused by these devices initially but the friendly attitude that the craftsman displays gives them comfort and eventually they begin to display curiosity towards the contraptions. The two characters then decide to continue the hunt together.
+
+[[DP Fun and Games B]]
+
+
+:: DP Bad Guys Close In A {"position":"1175,75","size":"100,100"}
+Aliens find him and a chase begins
+
+[[DP All Is Lost A]]
+
+
+:: DP Bad Guys Close In B {"position":"1175,425","size":"100,100"}
+While fighting they are noticeably making a lot of noise. This draws in the predator from before which upon finding them begins to chase them. They both run from the predator. 
+
+[[DP All Is Lost B]]
+
+
+:: DP Break Into 2 Option A {"position":"675,75","size":"100,100"}
+finds remote presses button, aliens crash down
+
+[[DP B Story A]]
+
+
+:: DP Break Into 2 option B {"position":"675,425","size":"100,100"}
+The protagonist is visibly distracted as they wander forward. They frantically look around their surroundings desperately attempting to find a sign of the deer they saw earlier. They are so occupied with this that they don’t notice the large feline predator that they walk directly into. The predator is sleeping, but the protagonist trips over it, waking it up and angering it. The predator begins chasing the protagonist. The protagonist is chased through the forest by the predator, running through and past strange plants and locations, before eventually slipping into a small opening in a cliff side which the predator cannot fit through. The protagonist is now lost.
+
+[[DP B Story B]]
+
+
+:: DP Break Into 3 A option 1 {"position":"1550,0","size":"100,100"}
+[[DP Finale A1]]
+
+
+:: DP Break Into 3 A option 2 {"position":"1550,150","size":"100,100"}
+[[DP Finale A2]]
+
+
+:: DP Break Into 3 B option 1 {"position":"1550,350","size":"100,100"}
+The protagonist is shown creating something, weaving and tying rope, and constructing something. This is cut between the protagonist tracking down the predator.
+
+[[DP Finale B1]]
+
+
+:: DP Break into 3 B option 2 {"position":"1550,500","size":"100,100"}
+After hours of hiding in their small hole the sun begins to set. Only after it dips below the horizon they slip out of their hiding space and dart through the dark forest. Rain begins to fall as the protagonist stumbles through the forest. 
+
+[[DP FInale B2]]
+
+
+:: DP DP Final Image B2 {"position":"1800,500","size":"100,100"}
+The protagonist returns to the cave with nothing but a handful of berries. They hand them to their child who fails to hide their dissapointment. The protagonist enters the cave and lies down in the dirt.
+
+
+:: DP Dark Knight of The Soul A {"position":"1425,75","size":"100,100"}
+[[DP Break Into 3 A option 1]]
+
+[[DP Break Into 3 A option 2]]
+
+
+:: DP Dark Night of The Soul B {"position":"1425,425","size":"100,100"}
+The caveman realizes that the craftsman did not follow them into the cave opening. Realizing they lost their dear and that they left their new friend to die, the caveman breaks down. They hold a small nut in their hand from earlier in the day when he was gathering in the prairie. They then held a small piece of rope they had been carrying. Staring at it their eyes light up and they look out into the forest from the opening of the cave.
+
+
+Help the craftsman
+[[DP Break Into 3 B option 1]]
+
+Run away
+[[DP Break into 3 B option 2]]
+
+
+:: DP FInale B2 {"position":"1675,500","size":"100,100"}
+The protagonists slips in mud and falls to the ground. They lie in the cold for a bit before the get back up to their feet. As they raise their head a flash of lightnight illuminates the predator who has been tracking the protagonist. The protagonist begins to run in fear and as they do they hear the stomps of the predator chasing after them. The protagonist runs as quickly as they can through the forest until they final find the exit. The predator is right behind them, they don't even want to think about what happened to the craftsman. As the protagonist breaches the perimeter of the forest they hear the predators steps cease behind them. The protagonist collapses in exahust in the safety of the prairie.
+
+[[DP DP Final Image B2]]
+
+
+:: DP Final Image A1 {"position":"1800,0","size":"100,100"}
+
+
+
+:: DP Final Image A2 {"position":"1800,150","size":"100,100"}
+
+
+
+:: DP Final Image B1 {"position":"1800,350","size":"100,100"}
+The protagonist comes home as the sun sets with a large sack of meat which he hauled back. The child exits the cave upon realizing their father has returned. When they realize that their father has returned home with meat they begin bouncing around in excitement. We then see the two sitting over a campfire happily eating the food which the father had returned with.
+
+
+:: DP Finale A1 {"position":"1675,0","size":"100,100"}
+[[DP Final Image A1]]
+
+
+:: DP Finale A2 {"position":"1675,150","size":"100,100"}
+[[DP Final Image A2]]
+
+
+:: DP Finale B1 {"position":"1675,350","size":"100,100"}
+The craftsman is seen hiding in a tree from the predator who sits at the base. The predator begins slowly climbing the tree before the protagonist shouts to get its attention and confronts it. The protagonist begins to run from the predator, this time however they are shown with a determined look in their eye. The predator gains on the protagonist as he leads it through the forest. Right before the protagonist is caught by the predator a trap is sprung and the predator is captured.
+
+[[DP Final Image B1]]
+
+
+:: DP Fun and Games A {"position":"925,75","size":"100,100"}
+Gets abducted, Runs around large craft. but the aliends lose him, Shenanagins progress
+
+[[DP Midpoint A]]
+
+
+:: DP Fun and Games B {"position":"925,425","size":"100,100"}
+A sequence plays switching between the progression of the hunt for the deer and the craftsman teaching the protagonist new tricks, and techniques. They teach him how to build traps, a canteen, a leaf compass, and a slingshot. The first time they encounter the deer the protagonist immediately throws their spear at it and the deer dodges before running away. From then on the craftsman shows them how to use traps and that is the method they use going forward.
+
+[[DP Midpoint B]]
+
+
+:: DP Midpoint A {"position":"1050,75","size":"100,100"}
+Finds gigantic stash of food on ship, stuffs his pockets
+
+[[DP Bad Guys Close In A]]
+
+
+:: DP Midpoint B {"position":"1050,425","size":"100,100"}
+Eventually the protagonist successfully catches the deer in a trap. Both characters celebrate before the protagonist shows they plan to keep all of the deer for themself. The craftsman becomes upset by this and they begin to fight.
+
+[[DP Bad Guys Close In B]]
+
+
+:: Debate {"position":"550,250","size":"100,100"}
+As they enter the ominous forest the protagonist is visibly afraid, and doubting the decision to continue further into the forest. There are shown multiple scenes of the protagonist freaking out over benign things like the sound of a twig snapping or the silhouette of a tree which he mistakes for a predator. They continuously look back at the entrance of the forest which gets further and further away, before it disappears.
+
+[[DP Break Into 2 option B]]
+
+[[DP Break Into 2 Option A]]
+
+
+:: Opening Image {"position":"50,250","size":"100,100"}
+The story starts with a wide shot of a cave entrance in the morning in a small open area bordering a forest. It then cuts to a shot of a camp fire which sits right outside of the cave. The protagonist of the story, an adult middle-aged caveman enters the frame. They look as though they have just woken up. They yawn and begin stretching. Staring into the forest across the open space as they do. Soon the child of the caveman timidly wanders into the frame. The two share an exchange. The father looks down at their child who timidly stares down at the ground before their stomach growls. The father pats them on their head before picking up a spear and heading into the forest.
+
+[[Theme Stated]]
+
+
+:: Set-Up {"position":"300,250","size":"100,100"}
+The protagonist enters the open prairie next to the forest. Scenes of wildlife roaming, including rodents and other animals. Notably, the protagonist watches a large deer with interest before the animal wanders to the edge of the prairie and enters an ominous-looking forest on the other side. The protagonist ignores this and begins searching for food. During this sequence, the food they gather is notably measly and lacking, picking up only a handful of seeds, nuts, and mushrooms. The most substantial piece of food they gather is a small rodent they hunt. This section is notable in that it shows the protagonist chasing the rodent down attempting to skewer it on their spear.
+
+[[Catalyst]]
+
+
+:: Theme Stated {"position":"175,250","size":"100,100"}
+Before leaving the cave the child gestures to the father directing their attention. They point to a couple of deer far off in the distance. The father brushes off the idea and then leaves to gather food.
+
+[[Set-Up]]
