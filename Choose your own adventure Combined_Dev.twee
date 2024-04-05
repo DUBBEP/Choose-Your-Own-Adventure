@@ -15,7 +15,7 @@ Choose your own adventure
 :: All Is Lost IW {"position":"2850,1850","size":"100,100"}
 (In the All Is Lost, the moment the hero most feared actually happens. Now it looks like the hero will lose. The All Is Lost usually contains a whiff of death where someone has died or the threat of real death is in the air. This is the hero’s rock-bottom moment..)
 
-The caveman notices his fire is barely still going and that he is running out of time to save it. He works quickly to try and save it but is having a hard time keeping it going and the darkness of the forest is closing in. 
+The caveman notices his fire is barely still going and that he is running out of time to save it. He works quickly to try and keep it going but is having a hard time keeping it from dying out and the darkness of the forest is closing in. 
 
 [[Dark Night of The Soul IW]]
 
@@ -67,7 +67,7 @@ Still looking at his feet in the puddle he glances over at his spear with a refr
 :: Bad Guys Close In IW {"position":"2725,1850","size":"100,100"}
 (In the Bad Guys Close In, stakes have raised and tension is higher. External Bad Guys may be literally closing in or psychological, internal Bad Guys may be causing more problems.)
 
-The caveman actually wakes up this time and realizes he was dreaming, and that he hasn’t found any real exist.  
+The caveman actually wakes up this time and realizes he was dreaming, and that he hasn’t found any real exist. He’s still trapped in the dark forest and has now lost all sense of direction and he desperately looks around for that ray of light from his dreams. 
 
 [[All Is Lost IW]]
 
@@ -95,7 +95,7 @@ The protagonist still freaking out as the cool shade of the trees covers more an
 :: Break Into 2 IW {"position":"2225,1850","size":"100,100"}
 (In the Break into 2, the hero decides to take action and locks in to accomplish a goal, venturing into a new world, or choosing a new way of  thinking. This is a no-turning-back decision that separates the old, ordinary world from the new world.)
 
-After wandering around for some time, the cave man eventually settles down and decides to settle down and starts a campfire with twigs and rocks he collected off the ground. 
+After wandering around for some time, the cave man eventually settles down and decides and start a campfire with twigs and rocks he collected off the ground. 
 
 
 [[B Story IW]]
@@ -104,7 +104,7 @@ After wandering around for some time, the cave man eventually settles down and d
 :: Break Into 3 IW Option 1 {"position":"3100,1750","size":"100,100"}
 (In the Break into 3, a new piece of information is discovered and the hero realizes what they must do to solve all the problems that have been created in Act 2.0)
 
-The caveman chooses to continue stoking the fire until it grows into a strong flame, and he can use a nearby stick to create a torch.  
+The caveman chooses to continue stoking the fire until it grows into a strong flame. As the flame grows a nearby deer takes notice of it and starts to walk closer but does not notice the caveman.  
 
 [[Finale IW]]
 
@@ -112,7 +112,7 @@ The caveman chooses to continue stoking the fire until it grows into a strong fl
 :: Break Into 3 IW Option 2 {"position":"3100,1950","size":"100,100"}
 (In the Break into 3, a new piece of information is discovered and the hero realizes what they must do to solve all the problems that have been created in Act 2.0)
 
-The caveman decides to leave his fire behind and try to rush out of the forest on his own. 
+The caveman decides to leave his fire behind and try to rush out of the forest on his own. This causes him to get even more lost and confused as in the dim light of the forest all the trees seem to look the same. 
 
 [[Finale IW 2]]
 
@@ -157,7 +157,7 @@ While searching for food the protagonist gets greedy, attempting to reach fruit 
 [[Debate]]
 
 
-:: DP All Is Lost A {"position":"2850,800","size":"100,100"}
+:: DP All Is Lost A {"position":"2850,750","size":"100,100"}
 He is captured and thrown into a cell on the ship
 
 [[DP Dark Knight of The Soul A]]
@@ -169,7 +169,7 @@ While running they pass by the small opening into a cave from before. The protag
 [[DP Dark Night of The Soul B]]
 
 
-:: DP B Story A {"position":"2350,800","size":"100,100"}
+:: DP B Story A {"position":"2350,750","size":"100,100"}
 Aliens pov 
 
 [[DP Fun and Games A]]
@@ -181,7 +181,7 @@ Now searching for both food and a way back home it is only now that the protagon
 [[DP Fun and Games B]]
 
 
-:: DP Bad Guys Close In A {"position":"2725,800","size":"100,100"}
+:: DP Bad Guys Close In A {"position":"2725,750","size":"100,100"}
 Aliens find him and a chase begins
 
 [[DP All Is Lost A]]
@@ -193,7 +193,7 @@ While fighting they are noticeably making a lot of noise. This draws in the pred
 [[DP All Is Lost B]]
 
 
-:: DP Break Into 2 Option A {"position":"2225,800","size":"100,100"}
+:: DP Break Into 2 Option A {"position":"2225,750","size":"100,100"}
 finds remote presses button, aliens crash down
 
 [[DP B Story A]]
@@ -205,7 +205,7 @@ The protagonist is visibly distracted as they wander forward. They frantically l
 [[DP B Story B]]
 
 
-:: DP Break Into 3 A option 1 {"position":"3100,725","size":"100,100"}
+:: DP Break Into 3 A option 1 {"position":"3100,650","size":"100,100"}
 He breaks out of the cell with the help of the alien.
 [[DP Finale A1]]
 
@@ -232,7 +232,7 @@ After hours of hiding in their small hole the sun begins to set. Only after it d
 The protagonist returns to the cave with nothing but a handful of berries. They hand them to their child who fails to hide their dissapointment. The protagonist enters the cave and lies down in the dirt.
 
 
-:: DP Dark Knight of The Soul A {"position":"2975,800","size":"100,100"}
+:: DP Dark Knight of The Soul A {"position":"2975,750","size":"100,100"}
 The protagonist reflects about what he has been through on the ship. He has a decision on what to do. he spots the alien he befriended earlier
 
 
@@ -261,7 +261,7 @@ The protagonists slips in mud and falls to the ground. They lie in the cold for 
 [[DP DP Final Image B2]]
 
 
-:: DP Final Image A1 {"position":"3350,725","size":"100,100"}
+:: DP Final Image A1 {"position":"3350,650","size":"100,100"}
 The protagonist returns back to his cave with the alien food he gathered
 
 
@@ -273,7 +273,7 @@ The protagonist returns to his cave empty handed.
 The protagonist comes home as the sun sets with a large sack of meat which he hauled back. The child exits the cave upon realizing their father has returned. When they realize that their father has returned home with meat they begin bouncing around in excitement. We then see the two sitting over a campfire happily eating the food which the father had returned with.
 
 
-:: DP Finale A1 {"position":"3225,725","size":"100,100"}
+:: DP Finale A1 {"position":"3225,650","size":"100,100"}
 The alien guides him back to the food stash and lets the protagonist take some. The protagonist escapes the ship
 
 [[DP Final Image A1]]
@@ -291,7 +291,7 @@ The craftsman is seen hiding in a tree from the predator who sits at the base. T
 [[DP Final Image B1]]
 
 
-:: DP Fun and Games A {"position":"2475,800","size":"100,100"}
+:: DP Fun and Games A {"position":"2475,750","size":"100,100"}
 Gets abducted, Runs around large craft. but the aliends lose him, Shenanagins progress. He befriends alien from B story.
 
 [[DP Midpoint A]]
@@ -303,7 +303,7 @@ A sequence plays switching between the progression of the hunt for the deer and 
 [[DP Midpoint B]]
 
 
-:: DP Midpoint A {"position":"2600,800","size":"100,100"}
+:: DP Midpoint A {"position":"2600,750","size":"100,100"}
 Finds gigantic stash of food on ship, stuffs his pockets
 
 [[DP Bad Guys Close In A]]
@@ -354,13 +354,13 @@ As they enter the ominous forest the protagonist is visibly afraid, and doubting
 :: Final Image IW {"position":"3350,1750","size":"100,100"}
 (The Final Image is the “after photo” of the hero and the world. This mirror of the Opening Image shows how far the world and the hero have transformed.)
 
-The caveman walks past the pile of charred twig what used to be a campfire, he drops his torch on top of the charred twigs right where the old fire used to be and joins his son back in their cave
+The caveman walks past the pile of charred twig what used to be a campfire, he drops his torch on top of the charred twigs. He then drags this deer into his cave and rejoins his son. 
 
 
 :: Final Image IW 2 {"position":"3350,1950","size":"100,100"}
 (The Final Image is the “after photo” of the hero and the world. This mirror of the Opening Image shows how far the world and the hero have transformed.)
 
-The caveman returns into his cave in the with the sun slowly setting. He’s covered in burses and scars from his journey home. He walks past his sleeping son as he returns to his bed.
+The caveman returns into his cave in the with the sun slowly setting. He’s covered in burses and scars from his journey home. He walks past his sleeping son as he returns to his bed. 
 
 
 :: Final Image option 1 DS {"position":"3350,1225","size":"100,100"}
@@ -386,7 +386,7 @@ A back shoulder shot of the caveman holding cage with live birds in it.
 :: Finale IW {"position":"3225,1750","size":"100,100"}
 (The Finale is the big showdown where the hero finally proves they’ve learned the lesson that was taught via their struggles in Act 2. The quest is won, the dragon is slain, and when the smoke clears, the hero has changed. Their flaw is repaired and the world is indeed a better place.)
 
-The caveman uses the torch to find his way out of the forest and make his way back to his cave with his son still inside it. 
+The caveman sees this opportunity and as the deer gets closer to the fire, the caveman pickups a large rock and sneaks up of the deer. This one swift motion the caveman strikes the deer over the head, killing it on the spot.  He then uses a nearby stick to create a torch with the fire and starts to drag the deer out of the forest. The caveman uses the torch to find his way out of the forest and make his way back to his cave.  
 
 [[Final Image IW]]
 
@@ -394,7 +394,7 @@ The caveman uses the torch to find his way out of the forest and make his way ba
 :: Finale IW 2 {"position":"3225,1950","size":"100,100"}
 (The Finale is the big showdown where the hero finally proves they’ve learned the lesson that was taught via their struggles in Act 2. The quest is won, the dragon is slain, and when the smoke clears, the hero has changed. Their flaw is repaired and the world is indeed a better place.)
 
-After days of struggling to find an escape from the forest, he finally finds a familiar route home and makes his way back to his cave. 
+The caveman struggles for days to find his way out of the forest, only resting when the sun goes down and it becomes impossible to see anything around him. Eventually after days and nights of continues wandering the cave man finds his way back to the prairie which allows him to make is way back home. 
 
 [[Final Image IW 2]]
 
@@ -439,7 +439,9 @@ Stopping to catch his breath the caveman leans over looking at the ground. His f
 :: Fun and Games IW {"position":"2475,1850","size":"100,100"}
 (In the Fun & Games, the hero is in the new world. This beat delivers on the promise of the premise. It’s a large section of the story that essentially presents “the movie you came to see.” The Fun & Games contains scenes and sequences that are shown in the trailer of movies or hinted at in the blurb on the back of the book or on that “Coming Next Week” teaser at the end of a TV show.)
 
-The cave man wakes up to light shining through the trees. He notices what seems to be a break in the forest that he can exist through. 
+The caveman has been playing with the fire for quite some time and deiced to go to sleep for the night near the fire.  
+
+The next morning the caveman wakes up and immediately starts to wander around the forest. He forgets about looking for an exit just explore the forest exploring in an almost dream like daze. 
 
 [[Midpoint IW]]
 
@@ -462,7 +464,7 @@ Peering down at the puddle he sees his reflections he notices a resemblance to h
 :: Midpoint IW {"position":"2600,1850","size":"100,100"}
 (The Midpoint is the middle of the story and the culmination of the Fun & Games. Usually, this beat is a false victory or a false defeat. The Midpoint raises the stakes on the hero, forcing them to narrow their focus on winning the day or surviving. Often, a ticking clock is introduced here, ratcheting up tension and boosting the urgency.)
 
-The caveman wakes up to light shining through the trees. He notices what seems to be a break in the forest that he can exist through.
+The caveman suddenly notices a bright light cutting through the forest, he feels like he is walking towards it and more like the light is pulling him in. As the gets closer to the light the forest around him gives way to the open prairie. Now that the edge of the forest the caveman can see clearly across the open land and spots him home cave from a distant and starts to run toward it. 
 
 [[Bad Guys Close In IW]]
 
